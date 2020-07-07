@@ -1,1 +1,2 @@
-# SlingShot.Angry-Bird
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
